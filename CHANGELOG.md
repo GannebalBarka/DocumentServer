@@ -4,6 +4,7 @@
 ### New Features
 #### Editors
 * Full support of high-dpi monitors
+* Ability to set alternative text for shapes
 
 #### Document Editor
 * Undo-Redo in Fast co-edit
